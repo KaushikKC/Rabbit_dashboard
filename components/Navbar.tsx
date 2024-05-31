@@ -15,13 +15,13 @@ export default function Navbar() {
           href="/"
         >
           <Image
-            className="-scale-x-100 mt-[-5px] mr-3"
-            width={40}
-            height={40}
+            className=" mt-[-5px] mr-3"
+            width={120}
+            height={120}
             src={logo}
             alt="Rabbit logo"
           />
-          Rabbit
+          {/* Rabbit */}
         </Link>
         <div className="hidden md:flex space-x-8">
           <Link

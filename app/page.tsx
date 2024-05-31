@@ -75,7 +75,7 @@ export default function Home() {
           </p>
           <div className="flex justify-center space-x-8">
             <a
-              href="https://x.com/RabbitStake"
+              href="https://x.com/Repeat2024"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center font-semibold text-blue-600 hover:underline"
